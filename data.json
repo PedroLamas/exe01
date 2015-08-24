@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Lumia 640",
+		"image": "Lumia640LTE_7_6.jpg",
+		"color": "Cyan"
+	},
+	{
+		"name": "Lumia 640 XL",
+		"image": "Lumia640XL_7_6.jpg",
+		"color": "Gray"
+	},
+	{
+		"name": "BLU Win HD",
+		"image": "BLU-Win-HD-LTE.jpg",
+		"color": "Lime"
+	}
+]
