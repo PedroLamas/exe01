@@ -2,16 +2,16 @@
 	{
 		"name": "Lumia 640",
 		"image": "Lumia640LTE_7_6.jpg",
-		"color": "Cyan"
+		"color": "#16CBF8"
 	},
 	{
 		"name": "Lumia 640 XL",
 		"image": "Lumia640XL_7_6.jpg",
-		"color": "Gray"
+		"color": "#E2E2E2"
 	},
 	{
 		"name": "BLU Win HD",
 		"image": "BLU-Win-HD-LTE.jpg",
-		"color": "Lime"
+		"color": "#ACD038"
 	}
 ]
